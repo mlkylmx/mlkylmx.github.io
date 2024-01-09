@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Melike Yılmaz</title>
+<link rel="stylesheet" type="text/css" href="stil.css">
+
+</head>
+<body>
+	<div id="kapsayici">
+		<div id="banner"></div>
+		<div id="menu"></div>
+		<div id="alt"></div>
+	</div>
+</body>
+</html>
